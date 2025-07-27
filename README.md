@@ -38,7 +38,7 @@ This project is a **Streamlit-based web application** that allows users to build
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/no_code_ml_pipeline.git
+git clone https://github.com/LakshmanRohith/no_code_ml_pipeline.git
 cd no_code_ml_pipeline
 ```
 
